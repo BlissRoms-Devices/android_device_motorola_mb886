@@ -1,0 +1,44 @@
+[
+  {
+    "remote": "github",
+    "repository": "CyanogenMod/android_device_motorola_msm8960_jbbl-common",
+    "target_path": "device/motorola/msm8960_jbbl-common",
+    "revision": "cm-13.0"
+  },
+  {
+    "remote": "github",
+    "repository": "CyanogenMod/android_device_motorola_qcom-common",
+    "target_path": "device/motorola/qcom-common",
+    "revision": "cm-13.0"
+  },
+  {
+    "remote": "github",
+    "repository": "CyanogenMod/android_kernel_motorola_msm8960-common",
+    "target_path": "kernel/motorola/msm8960-common",
+    "revision": "cm-13.0"
+  },
+  {
+    "remote": "github",
+    "repository": "CyanogenMod/platform_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "revision": "cm-13.0"
+  },
+  {
+    "remote": "github",
+    "repository": "CyanogenMod/android_external_stlport",
+    "target_path": "external/stlport",
+    "revision": "cm-13.0"
+  },
+  {
+    "remote": "github",
+    "repository": "CyanogenMod/android_external_sony_boringssl-compat",
+    "target_path": "external/sony/boringssl-compat",
+    "revision": "cm-13.0"
+  },
+  {
+    "remote": "github",
+    "repository": "TheMuppets/proprietary_vendor_motorola",
+    "target_path": "vendor/motorola",
+    "revision": "cm-13.0"
+  }
+]
