@@ -7,9 +7,9 @@
   },
   {
     "remote": "github",
-    "repository": "CyanogenMod/android_device_motorola_qcom-common",
+    "repository": "MoKee/android_device_motorola_qcom-common",
     "target_path": "device/motorola/qcom-common",
-    "revision": "cm-13.0"
+    "revision": "mkm"
   },
   {
     "remote": "github",
@@ -19,9 +19,9 @@
   },
   {
     "remote": "github",
-    "repository": "CyanogenMod/android_device_qcom_common",
+    "repository": "MoKee/android_device_qcom_common",
     "target_path": "device/qcom/common",
-    "revision": "cm-13.0"
+    "revision": "mkm"
   },
   {
     "remote": "github",
